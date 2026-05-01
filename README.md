@@ -7,7 +7,7 @@ This project features a minimalist vase where the flowers are the main focus. By
 
 ## Live Demo
 You can view the project here:
-[View the Interactive Flowers](https://joybytez.github.io/click-to-bloom)
+[View the Interactive Flowers](https://joybytez.github.io/click-to-bloom/)
 
 ## Interaction
 - Click any flower to toggle its bloom.
